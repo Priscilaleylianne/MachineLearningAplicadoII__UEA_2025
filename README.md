@@ -33,15 +33,24 @@ O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **
 ## 🧩 Estrutura do Repositório
 
 📦 Atividade-ML-NaiveBayes
+
 ┣ 📜 README.md
+
 ┣ 📘 AtividadePaticaMLParte01.ipynb → Introdução e Teorema de Bayes
+
 ┣ 📘 AtividadePaticaMLParte02.ipynb → Classificação com MultinomialNB (20 Newsgroups)
+
 ┣ 📘 AtividadePaticaMLParte03_BernoulliNB_20Newsgroups.ipynb → Codificação Binária e BernoulliNB
+
 ┗ 📁 /datasets → (opcional) conjuntos de dados locais
 
 
 ---
+## No Google Colab, basta rodar esta célula:
 
+!pip install seaborn scikit-learn
+
+---
 ## ⚙️ Requisitos
 
 Antes de começar, instale as bibliotecas necessárias.  
@@ -49,8 +58,3 @@ Abra um terminal ou notebook e execute:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
-
-
-No Google Colab, basta rodar esta célula:
-
-!pip install seaborn scikit-learn

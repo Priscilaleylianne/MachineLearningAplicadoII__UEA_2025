@@ -1,14 +1,14 @@
 # Machine-Learning-Aplicado_II_UEA-2025
 
-# 🤖 Atividade Prática — Machine Learning com Naive Bayes
+# Atividade Prática — Machine Learning com Naive Bayes
 
-## 🏫 Projeto Educacional
+## Projeto Educacional
 Este repositório faz parte das atividades práticas do módulo **Machine Learning Aplicado** do curso técnico de Informática.  
 O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **classificadores Naive Bayes** e conjuntos de dados reais.
 
 ---
 
-## 📚 Objetivos de Aprendizagem
+## Objetivos de Aprendizagem
 
 1. Compreender o que é **Aprendizado de Máquina (Machine Learning)**.
 2. Aprender a usar **classificadores probabilísticos** (Naive Bayes).
@@ -18,7 +18,7 @@ O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **
 
 ---
 
-## 🧠 Conceitos Principais
+## Conceitos Principais
 
 | Conceito | Explicação |
 |-----------|-------------|
@@ -30,7 +30,7 @@ O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **
 
 ---
 
-## 🧩 Estrutura do Repositório
+## Estrutura do Repositório
 
 📦 Atividade-ML-NaiveBayes
 
@@ -51,7 +51,7 @@ O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **
 !pip install seaborn scikit-learn
 
 ---
-## ⚙️ Requisitos
+## Requisitos
 
 Antes de começar, instale as bibliotecas necessárias.  
 Abra um terminal ou notebook e execute:

@@ -40,7 +40,7 @@ O objetivo é **introduzir conceitos de Aprendizado de Máquina (IA)** usando **
 
 ┣ 📘 AtividadePaticaMLParte02.ipynb → Classificação com MultinomialNB (20 Newsgroups)
 
-┣ 📘 AtividadePaticaMLParte03_BernoulliNB_20Newsgroups.ipynb → Codificação Binária e BernoulliNB
+┣ 📘 AtividadePaticaMLParte03.ipynb → Codificação Binária e BernoulliNB
 
 ┗ 📁 /datasets → (opcional) conjuntos de dados locais
 
